@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+  deck-of-many-games:
+    build: .
+    container_name: deck_of_many_games
+    restart: unless-stopped
+    volumes:
+      - ./content:/app/content
+    ports:
+      - 8080:3000
+
+# volumes:
+  # content:

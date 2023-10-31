@@ -1,0 +1,33 @@
+{
+  "name": "deck-of-many-games",
+  "version": "1.0.0",
+  "description": "A bunch of games that can be played with a deck of cards, chips and dice",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuppleThink/Deck-of-Many-Games.git"
+  },
+  "type": "module",
+  "keywords": [
+    "cardgame",
+    "boardgame",
+    "game"
+  ],
+  "author": "JE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuppleThink/Deck-of-Many-Games/issues"
+  },
+  "homepage": "https://github.com/SuppleThink/Deck-of-Many-Games#readme",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "docker": "docker-compose down && docker-compose up -d && docker logs deck_of_many_games -f",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.8.5",
+    "nuxt": "^3.8.0"
+  }
+}
