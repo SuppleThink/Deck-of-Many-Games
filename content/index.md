@@ -6,11 +6,11 @@ Take a look at each of these games and hopefully you find something interesting 
 
 [Las Vegas - Custom Edition](/games/las_vegas){.tui-button}
 
-[High Society - Custom Edition](/games/high_society){.tui-button}
+[High Society - Homebrew Edition](/games/high_society){.tui-button}
 
 [Strike - The Dice Game](/games/strike){.tui-button}
 
-[Regicide](/games/regicide){.tui-button}
+[Regicide - An Epic Co-Op Card Game](/games/regicide){.tui-button}
 
 <!-- This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
 

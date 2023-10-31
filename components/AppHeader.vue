@@ -1,7 +1,7 @@
 <template>
 <header>
   <nav class="tui-nav">
-      <h1 class="nav-title danger">&nbsp;The Deck of Many Games </h1>
+      <h1 class="nav-title danger">&nbsp;Supple Think's Deck of Many Games </h1>
       <ul>
           <li class="primary"><a href="/" class="">Home</a></li>
           <!-- <li class="tui-dropdown">
