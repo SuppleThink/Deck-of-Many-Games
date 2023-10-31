@@ -1,6 +1,11 @@
 <template>
-  <div>
-	[Footer goes here]
+<div class="tui-statusbar">
+    <ul>
+        <li><a href="/"><span class="red-168-text">F1</span> Home</a></li>
+        <!-- <span class="tui-statusbar-divider"></span> -->
+        <!-- <li><a href="#!"><span class="red-168-text">F10</span> Menu</a></li> -->
+        <!-- ... -->
+    </ul>
 </div>
 </template>
 

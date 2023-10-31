@@ -1,13 +1,22 @@
 <template>
+  <Body class=""></Body>
   <AppHeader />
   <div class="container" >
-    <NuxtPage />
+    <div class="container-inner">
+      <NuxtPage />
+    </div>
   </div>
   <AppFooter />
 </template>
 
+<style scoped>
+  .container {
+    padding-top: 5em;
+  }
+</style>
 <style>
  body {
-  background: #c7cdde;
+  background-color: #111;
+  color: #cdedcf;
  }
 </style>
