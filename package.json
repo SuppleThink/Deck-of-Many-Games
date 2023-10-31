@@ -23,7 +23,9 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "docker": "docker-compose down && docker-compose up -d && docker logs deck_of_many_games -f",
+    "docker-log": "docker logs deck_of_many_games -f",
     "generate": "nuxt generate",
+    "static-preview": "npx serve .output/public",
     "preview": "nuxt preview"
   },
   "devDependencies": {
