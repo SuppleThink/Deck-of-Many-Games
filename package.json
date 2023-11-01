@@ -33,6 +33,7 @@
     "nuxt": "^3.8.0"
   },
   "dependencies": {
+    "figlet": "^1.7.0",
     "tuicss": "^2.1.2"
   }
 }

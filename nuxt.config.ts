@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/content'],
   css: [
-    'tuicss'
+    'tuicss',
+    '~/assets/css/main.css',
   ],
 })
