@@ -1,6 +1,8 @@
 ::FancyTitle{:title="LAS VEGAS" :font="3-D"}
 ::
 
+Original game listing on BGG: [https://boardgamegeek.com/boardgame/117959/las-vegas]{.tui-button}
+
 # Rules for how to play Las Vegas (Custom Edition)
 
 ## Overview:
