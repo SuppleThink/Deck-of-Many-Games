@@ -5,15 +5,28 @@
         &nbsp;Supple Think Presents:&nbsp;&nbsp;Deck of Many Games
       </h1>
       <ul>
-        <li class="primary"><a href="/" class="">Home</a></li>
-        <!-- <li class="tui-dropdown">
-              <span class="red-168-text">F</span>ile
-              <div class="tui-dropdown-content">
-                  <ul>
-                      <li><a href="#!"><span class="red-168-text">N</span>ew</a></li>
-                  </ul>
-              </div>
-          </li> -->
+        <li class="">
+          <a href="/" class=""><span class="red-168-text">H</span>ome</a>
+        </li>
+        <li class="tui-dropdown">
+          <span class="red-168-text">G</span>ames
+          <div class="tui-dropdown-content">
+            <ul>
+              <li>
+                <a href="/games/las_vegas">Las Vegas</a>
+              </li>
+              <li>
+                <a href="/games/high_society">High Society</a>
+              </li>
+              <li>
+                <a href="/games/strike">Strike</a>
+              </li>
+              <li>
+                <a href="/games/regicide">Regicide</a>
+              </li>
+            </ul>
+          </div>
+        </li>
       </ul>
     </nav>
   </header>
