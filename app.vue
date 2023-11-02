@@ -1,7 +1,7 @@
 <template>
   <Body class=""></Body>
   <AppHeader />
-  <div class="container" >
+  <div class="container">
     <div class="container-inner">
       <NuxtPage />
     </div>
@@ -10,13 +10,14 @@
 </template>
 
 <style scoped>
-  .container {
-    padding-top: 5em;
-  }
+.container {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
 </style>
 <style>
- body {
+body {
   background-color: #111;
   color: #cdedcf;
- }
+}
 </style>

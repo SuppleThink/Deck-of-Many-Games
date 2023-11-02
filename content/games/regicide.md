@@ -1,3 +1,6 @@
+::FancyTitle{:title="Regicide" :font="Epic"}
+::
+
 # Regicide
 
 ## Link to game details on BGG: [https://boardgamegeek.com/boardgame/307002/regicide]{.tui-button}

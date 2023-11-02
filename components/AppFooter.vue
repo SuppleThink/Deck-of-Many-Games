@@ -1,20 +1,18 @@
 <template>
-<div class="tui-statusbar">
+  <div class="tui-statusbar">
     <ul>
-        <li><a href="/"><span class="red-168-text">F1</span> Home</a></li>
-        <!-- <span class="tui-statusbar-divider"></span> -->
-        <!-- <li><a href="#!"><span class="red-168-text">F10</span> Menu</a></li> -->
-        <!-- ... -->
+      <li>
+        <a href="/"><span class="red-168-text">F1</span> Home</a>
+      </li>
+      <!-- <span class="tui-statusbar-divider"></span> -->
+      <!-- <li><a href="#!"><span class="red-168-text">F10</span> Menu</a></li> -->
+      <!-- ... -->
     </ul>
-</div>
+  </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>

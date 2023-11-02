@@ -1,3 +1,6 @@
+::FancyTitle{:title="STRIKE" :font="Slant Relief"}
+::
+
 # Strike - Homebrew Edition
 
 ## Original Game Info on BGG: [https://boardgamegeek.com/boardgame/123570/strike]{.tui-button}

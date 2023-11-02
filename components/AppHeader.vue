@@ -1,10 +1,12 @@
 <template>
-<header>
-  <nav class="tui-nav">
-      <h1 class="nav-title danger">&nbsp;Supple Think's Deck of Many Games </h1>
+  <header>
+    <nav class="tui-nav">
+      <h1 class="nav-title danger">
+        &nbsp;Supple Think Presents:&nbsp;&nbsp;Deck of Many Games
+      </h1>
       <ul>
-          <li class="primary"><a href="/" class="">Home</a></li>
-          <!-- <li class="tui-dropdown">
+        <li class="primary"><a href="/" class="">Home</a></li>
+        <!-- <li class="tui-dropdown">
               <span class="red-168-text">F</span>ile
               <div class="tui-dropdown-content">
                   <ul>
@@ -13,19 +15,17 @@
               </div>
           </li> -->
       </ul>
-  </nav>
-</header>
+    </nav>
+  </header>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-  .nav-title {
-    margin: 0;
-    padding: 0.8em 2em;
-  }
+.nav-title {
+  margin: 0;
+  padding: 0.8em 2em;
+}
 </style>

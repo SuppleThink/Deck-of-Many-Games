@@ -1,3 +1,6 @@
+::FancyTitle{:title="LAS VEGAS" :font="3-D"}
+::
+
 # Rules for how to play Las Vegas (Custom Edition)
 
 ## Overview:

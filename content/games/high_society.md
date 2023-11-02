@@ -1,3 +1,6 @@
+::FancyTitle{:title="High Society"}
+::
+
 # High Society (Custom Edition)
 
 ## Credit
