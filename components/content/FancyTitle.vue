@@ -39,6 +39,6 @@ const fancyTitle = await figlet.text(
 
 <style>
 .fancy-title {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
 }
 </style>
