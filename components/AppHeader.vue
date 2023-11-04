@@ -2,7 +2,7 @@
   <header>
     <nav class="tui-nav">
       <h1 class="nav-title danger">
-        &nbsp;Supple Think Presents:&nbsp;&nbsp;Deck of Many Games
+        &nbsp;Supple Think Presents:&nbsp;Deck of Many Games
       </h1>
       <ul>
         <li class="">

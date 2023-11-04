@@ -1,4 +1,4 @@
-::FancyTitle{:title="LINKS" :font="Swamp Land"}
+::FancyTitle{:title="LINKS" :font="Doh"}
 ::
 
 ## Links to other game resources
