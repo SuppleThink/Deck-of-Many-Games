@@ -3,24 +3,36 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from "vue";
 import figlet from "figlet";
 import standard from "figlet/importable-fonts/Standard.js";
-figlet.parseFont("Standard", standard);
 import font3d from "figlet/importable-fonts/3-D.js";
-figlet.parseFont("3-D", font3d);
 import Epic from "figlet/importable-fonts/Epic";
-figlet.parseFont("Epic", Epic);
 import Slant from "figlet/importable-fonts/Slant.js";
-figlet.parseFont("Slant", Slant);
 import SlantRelief from "figlet/importable-fonts/Slant Relief.js";
-figlet.parseFont("Slant Relief", SlantRelief);
 import SmallSlant from "figlet/importable-fonts/Small Slant.js";
-figlet.parseFont("Small Slant", SmallSlant);
+import Big from "figlet/importable-fonts/Big.js";
+import Doh from "figlet/importable-fonts/Doh.js";
+import SubZero from "figlet/importable-fonts/Sub-Zero.js";
+import SwampLand from "figlet/importable-fonts/Swamp Land.js";
+import font3DASCII from "figlet/importable-fonts/3D-ASCII.js";
+
 export interface Props {
   title?: string;
   font?: string;
 }
+
+// Load fonts into figlet
+figlet.parseFont("Standard", standard);
+figlet.parseFont("3D-ASCII", font3DASCII);
+figlet.parseFont("3-D", font3d);
+figlet.parseFont("Epic", Epic);
+figlet.parseFont("Slant", Slant);
+figlet.parseFont("Slant Relief", SlantRelief);
+figlet.parseFont("Small Slant", SmallSlant);
+figlet.parseFont("Big", Big);
+figlet.parseFont("Doh", Doh);
+figlet.parseFont("Sub-Zero", SubZero);
+figlet.parseFont("Swamp Land", SwampLand);
 
 const props = withDefaults(defineProps<Props>(), {
   title: "Sample Title",

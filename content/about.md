@@ -1,4 +1,4 @@
-::FancyTitle{:title="ABOUT"}
+::FancyTitle{:title="ABOUT" :font="Doh"}
 ::
 
 # About D.O.M.G.
