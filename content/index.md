@@ -23,6 +23,8 @@ Take a look at each of these games and hopefully you find something interesting 
 
 </div>
 
+Along with the games described in detail on this site, [here are some links to some other resources.](/links){.tui-button}
+
 <!-- This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
 
 Try to navigate to [/about](/about){.tui-button}. These 2 pages are rendered by the `pages/[...slug].vue` component.

@@ -1,3 +1,6 @@
+::FancyTitle{:title="ABOUT"}
+::
+
 # About D.O.M.G.
 
 This website's main purpose is to have a record of games that can be easily played with common game pieces, and so you can store it a portable container that can be left in a car, backpack, luggage, etc.
