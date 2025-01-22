@@ -23,6 +23,14 @@ Take a look at each of these games and hopefully you find something interesting 
 
 </div>
 
+<h3>Honorable Mentions:</h3>
+
+<p>Here are a few other notable games playable with a standard deck:</p>
+<ul>
+  <li> Cuttle - <a href="https://www.pagat.com/combat/cuttle.html">https://www.pagat.com/combat/cuttle.html</a> </li>
+  <li> Tichu - <a href="https://boardgamegeek.com/boardgame/215/tichu">https://boardgamegeek.com/boardgame/215/tichu</a> </li>
+</ul>
+
 Along with the games described in detail on this site, [here are some links to some other resources.](/links){.tui-button}
 
 <!-- This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
